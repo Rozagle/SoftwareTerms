@@ -1,0 +1,5 @@
+{
+  "name": "DevTerm Dictionary",
+  "description": "A smart dictionary generator for software terms that categorizes, expands acronyms, and provides concise definitions using Gemini AI.",
+  "requestFramePermissions": []
+}
