@@ -3,7 +3,7 @@ import TermInput from './components/TermInput';
 import DictionaryDisplay from './components/DictionaryDisplay';
 import Header from './components/Header';
 import AuthModal from './components/LoginModal';
-import { generateDictionary } from './services/geminiService';
+import { generateDictionary } from './services/Service';
 import { GroupedTerms, LoadingState, TermEntry, User } from './types';
 import { Trash2, AlertTriangle, XCircle } from 'lucide-react';
 
